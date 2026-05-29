@@ -1,0 +1,18 @@
+# deps / build
+node_modules
+dist
+build
+.vite
+
+# env / secrets
+.env
+.env.*
+*.local
+
+# logs
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
